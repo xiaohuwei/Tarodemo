@@ -3,6 +3,7 @@
 git clone git@github.com:xiaohuwei/Tarodemo.git
 cd Tarodemo
 cnpm i
+
 ```
 
 
